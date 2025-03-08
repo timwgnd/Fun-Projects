@@ -2,7 +2,7 @@
 #### 1. Human vs. Human: Text-based Approach
 #### 2. Human vs. Human: Pygame GUI
 #### 3. Human vs. Computer: Hard-coded Strategies
-#### 4. Human vs. Computer: Reinforcement Learning
+#### 4. Human vs. Computer: Reinforcement Learning (Q-Learning)
 
 Images for Tic Tac Toe with pygame GUI can be downloaded here (just adapt the path in the code to where you store the images):
 
